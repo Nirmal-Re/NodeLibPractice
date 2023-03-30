@@ -1,0 +1,43 @@
+{
+  "Log": {
+    "SiteID": "impr",
+    "DateTime": "2023-01-06 12:01:55"
+  },
+  "System": {
+    "BootDateTime": "2022-12-12 06:02:11",
+    "UptimeMins": 36358,
+    "Hostname": "LW-RAD-OPT-01",
+    "IpAddress": "10.157.95.159"
+  },
+  "Memory": {
+    "TotalBytes": 17179262976,
+    "UsedBytes": 8236077056,
+    "FreeBytes": 8943185920
+  },
+  "Storage": {
+    "C:": {
+      "CapacityGb": 79.46093368530273,
+      "UsedGb": 38.55787658691406,
+      "FreeGb": 40.90305709838867,
+      "Format": "NTFS"
+    },
+    "D:": {
+      "CapacityGb": 499.98241806030273,
+      "UsedGb": 24.763980865478516,
+      "FreeGb": 475.2184371948242,
+      "Format": "NTFS"
+    }
+  },
+  "Trials": {
+    "OPTIMAM": {
+      "TrialID": 9,
+      "Clients": 94070,
+      "Studies": 228917,
+      "Images": 937337,
+      "Rejected": 9951,
+      "PacsQueriedTrue": 77201,
+      "PacsQueriedFalse": 16869,
+      "LastProcessedDateTime": "2023-01-06 05:51:55"
+    }
+  }
+}

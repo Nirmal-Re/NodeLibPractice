@@ -1,0 +1,7 @@
+
+POST http://localhost:5000/site
+Content-type: application/json 
+
+{
+    "name":"Nirmal",
+}
